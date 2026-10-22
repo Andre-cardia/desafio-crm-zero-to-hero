@@ -1,5 +1,7 @@
 # Tutorial passo a passo — do pré-projeto ao CRM
 
+Para aprender os cliques do GitHub, consulte o [cookbook para alunos e mentores](../COOKBOOK-GITHUB.md): envio de arquivos, Pull Requests, revisões e pareceres.
+
 Este roteiro foi pensado para quem está começando. Siga a ordem e use BMAD como apoio para pensar, documentar e implementar. Você continua responsável por aprovar decisões e conferir o resultado.
 
 Antes de começar, leia [REFERENCIA-REPOSITORIO.md](../REFERENCIA-REPOSITORIO.md): calendário da turma, regras de apresentação, entrega por commit/tag e critérios da banca. A entrega final está prevista para **14/12/2026, às 23h59** e o limite definido para as apresentações é **17/12/2026, às 22h**, horário de Brasília.
