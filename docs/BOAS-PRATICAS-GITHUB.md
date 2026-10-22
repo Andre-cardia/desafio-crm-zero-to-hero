@@ -1,5 +1,7 @@
 # Boas práticas de GitHub para o desafio
 
+Está começando? Use o [cookbook de alunos e mentores](../COOKBOOK-GITHUB.md), com os cliques de envio, revisão e aprovação.
+
 ## 1. Um repositório por aluno ou dupla
 
 Use o repositório de referência como modelo e mantenha o projeto em um repositório individual. Isso separa as entregas e deixa a avaliação mais clara. Se o repositório for privado, convide o instrutor como colaborador antes da primeira entrega.
@@ -8,7 +10,7 @@ Use o repositório de referência como modelo e mantenha o projeto em um reposit
 
 - Habilite **Template repository** nas configurações do repositório de referência.
 - Para cada aluno, crie uma cópia individual e defina a visibilidade combinada com a turma.
-- Em cada repositório privado, adicione o instrutor como colaborador com a menor permissão suficiente para revisar e comentar.
+- Em cada repositório privado, convide os dois mentores e confirme que aceitaram. Em conta pessoal, colaboradores possuem escrita; em organizações, a coordenação pode ajustar papéis mais específicos. Não presuma que colaboradores e proteções foram copiados do template.
 - Mantenha a branch `main` como branch padrão. Se disponível, exija Pull Request para integrar mudanças; em turmas pequenas, a revisão do instrutor no PR já serve como controle mínimo.
 - Não publique o repositório do aluno se houver informação que não deve ficar pública.
 
@@ -60,7 +62,7 @@ Um PR deve conter uma alteração pequena e revisável. Na descrição, informe:
 - limitações ou pontos não verificados;
 - captura de tela ou gravação curta quando a mudança for visual.
 
-Não marque um PR como pronto se ainda precisa de revisão. Responda aos comentários no próprio PR e peça nova revisão quando terminar.
+Marque o PR como pronto quando os arquivos e as instruções estiverem preparados para a revisão do mentor. Use Draft enquanto ainda estiver trabalhando. Responda aos comentários no próprio PR e peça nova revisão após os ajustes.
 
 ## 7. Segredos e dados pessoais
 
