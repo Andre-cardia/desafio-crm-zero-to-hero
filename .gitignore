@@ -1,0 +1,19 @@
+# Segredos e configurações locais
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Dependências e builds
+node_modules/
+dist/
+build/
+.next/
+coverage/
+
+# Arquivos locais do sistema/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
