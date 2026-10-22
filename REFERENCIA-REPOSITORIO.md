@@ -42,6 +42,7 @@ Se o modelo não estiver disponível, a coordenação deve indicar como copiar o
 | Arquivo ou pasta | Uso |
 |---|---|
 | [README.md](README.md) | Entrada do repositório e instruções de execução do aplicativo do aluno. |
+| [COOKBOOK-GITHUB.md](COOKBOOK-GITHUB.md) | Receitas para iniciantes: criar a cópia, subir arquivos, abrir PR, revisar, corrigir e registrar a avaliação. |
 | [DESAFIO.md](DESAFIO.md) | Problema, MVP obrigatório e definição de pronto. |
 | [REFERENCIA-REPOSITORIO.md](REFERENCIA-REPOSITORIO.md) | Prazos, entregas e regras de alunos e mentores. |
 | [docs/ROTEIRO-PASSO-A-PASSO.md](docs/ROTEIRO-PASSO-A-PASSO.md) | Preparação, pré-projeto e passos de construção com BMAD. |

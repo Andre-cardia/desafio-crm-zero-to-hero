@@ -13,6 +13,7 @@ Há dois marcos de avaliação:
 
 ## Comece por aqui
 
+- [Cookbook GitHub para iniciantes: enviar, revisar e aprovar entregas](COOKBOOK-GITHUB.md)
 - [Referência do repositório: prazos, apresentações e regras da banca](REFERENCIA-REPOSITORIO.md)
 - [Enunciado do desafio](DESAFIO.md)
 - [Tutorial passo a passo](docs/ROTEIRO-PASSO-A-PASSO.md)
@@ -29,7 +30,7 @@ Há dois marcos de avaliação:
 
 Este repositório é a **referência do desafio**. Cada aluno deve criar seu próprio repositório a partir dele, manter o trabalho privado durante a avaliação e compartilhar acesso com o instrutor. Assim cada entrega tem histórico, tarefas e revisões próprios.
 
-No GitHub, o instrutor pode habilitar **Template repository** neste repositório. O aluno então seleciona **Use this template → Create a new repository**, escolhe um nome identificável e a visibilidade definida pela turma e adiciona o instrutor como colaborador. Se a opção de template não estiver habilitada, o aluno pode fazer um fork ou criar um repositório vazio e copiar os arquivos.
+Este repositório está habilitado como **Template repository**. O aluno seleciona **Use this template → Create a new repository**, escolhe um nome identificável, mantém sua cópia privada durante a avaliação e convida os dois mentores. O [cookbook](COOKBOOK-GITHUB.md) mostra cada clique, como enviar arquivos e onde os mentores registram a revisão e a nota.
 
 Não inclua dados reais de clientes, senhas, chaves de API ou informações pessoais. Use somente dados de demonstração.
 
